@@ -15,17 +15,16 @@
 
 ## Capturas de Pantalla
 <p align="center">
-  <img src="./assets/a0.png" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/a1.png" width="200" alt="Captura de Pantalla 1">
   <img src="./assets/a01.png" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/a1.png" width="200" alt="Captura de Pantalla 3">
-  <img src="./assets/a2.png" width="200" alt="Captura de Pantalla 4">
-  <img src="./assets/a3.png" width="200" alt="Captura de Pantalla 5">
-  <img src="./assets/a4.png" width="200" alt="Captura de Pantalla 6">
-  <img src="./assets/a5.png" width="200" alt="Captura de Pantalla 7">
-  <img src="./assets/a6.png" width="200" alt="Captura de Pantalla 8">
-  <img src="./assets/a7.png" width="200" alt="Captura de Pantalla 9">
-  <img src="./assets/a8.png" width="200" alt="Captura de Pantalla 10">
-  <img src="./assets/a9.png" width="200" alt="Captura de Pantalla 11">
+  <img src="./assets/a2.png" width="200" alt="Captura de Pantalla 3">
+  <img src="./assets/a3.png" width="200" alt="Captura de Pantalla 4">
+  <img src="./assets/a4.png" width="200" alt="Captura de Pantalla 5">
+  <img src="./assets/a5.png" width="200" alt="Captura de Pantalla 6">
+  <img src="./assets/a6.png" width="200" alt="Captura de Pantalla 7">
+  <img src="./assets/a7.png" width="200" alt="Captura de Pantalla 8">
+  <img src="./assets/a8.png" width="200" alt="Captura de Pantalla 9">
+  <img src="./assets/a9.png" width="200" alt="Captura de Pantalla 10">
 </p>
 
 
